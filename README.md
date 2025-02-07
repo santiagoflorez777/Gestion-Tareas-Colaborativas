@@ -74,6 +74,6 @@ El frontend se ejecutará en `http://localhost:3000`
 
 ---
 
-💡 **Desarrollado por [Tu Nombre](https://github.com/santiagoflorez777)**
+💡 **Desarrollado por [Santiago Gómez Flórez](https://github.com/santiagoflorez777)**
 
 
